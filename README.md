@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**Hema0202/Hema0202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Hema Lohana 👋
 
-Here are some ideas to get you started:
+Currently, I am studying In MCA 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies & Tools
+
+- Programming Languages: C, JAVA, JavaScript
+- Web Development: HTML, CSS
+- Version Control: Git, GitHub
+- Database: MYSQL, MongoDB
+
+## 🌱 I'm currently learning
+
+- Web Development
+- Data Structure and Algorithms
+- Advanced JavaScript concepts
+
+## 📫 How to reach me
+
+- Email: hemalohana8@gmail.com
+- LinkedIn: [LinkedIn Profile]([link-to-your-linkedin](https://www.linkedin.com/in/hema-lohana-261209216/))
+
+
+
+
+
+
