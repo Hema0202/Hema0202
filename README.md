@@ -1,7 +1,7 @@
 
 # Hello, I'm Hema Lohana 👋
 
-Currently, I am studying In MCA 
+ Currently, I am pursuing my MCA. I am focused and dedicated to work. I am good at communication and computer programming.
 
 ## 🚀 Technologies & Tools
 
