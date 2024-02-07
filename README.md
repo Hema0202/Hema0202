@@ -5,7 +5,7 @@
 
 ## 🚀 Technologies & Tools
 
-- Programming Languages: C, JAVA, JavaScript
+- Programming Languages: C, JAVA, JavaScript, Express, React
 - Web Development: HTML, CSS
 - Version Control: Git, GitHub
 - Database: MYSQL, MongoDB
@@ -13,6 +13,7 @@
 ## 🌱 I'm currently learning
 
 - Web Development
+- React Development
 - Data Structure and Algorithms
 - Advanced JavaScript concepts
 
