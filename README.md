@@ -20,7 +20,7 @@
 ## 📫 How to reach me
 
 - Email: hemalohana8@gmail.com
-- LinkedIn: [LinkedIn Profile]([link-to-your-linkedin](https://www.linkedin.com/in/hema-lohana-261209216/))
+- LinkedIn: [Click](https://www.linkedin.com/in/hema-lohana-261209216/)
 
 
 
