@@ -21,6 +21,8 @@
 
 - Email: hemalohana8@gmail.com
 - LinkedIn: [Click](https://www.linkedin.com/in/hema-lohana-261209216/)
+- Leetcode: [Click](https://leetcode.com/HemaLohana2000/)
+- GFG     : [Click](https://www.geeksforgeeks.org/)
 
 
 
