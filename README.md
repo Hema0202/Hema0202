@@ -1,7 +1,7 @@
 
 # Hello, I'm Hema Lohana 👋
 
- Currently, I am pursuing my MCA. I am focused and dedicated to work. I am good at communication and computer programming.
+ Currently, I have completed my MCA. I am focused and dedicated to work. I am good at communication and computer programming.
 
 ## 🚀 Technologies & Tools
 
