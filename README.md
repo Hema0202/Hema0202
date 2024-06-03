@@ -19,12 +19,11 @@
 - Data Structure and Algorithms
 - Advanced JavaScript concepts
 
-<h3 align="left">📫 How to reach me</h3>
+## 📫 How to reach me
+
 <p align="left">
 <a href="https://linkedin.com/in/hema-lohana-261209216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hema-lohana-261209216" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/HemaLohana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="HemaLohana" height="30" width="40" /></a>
-
 <a href="https://auth.geeksforgeeks.org/user/hemalooymd/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hemalooymd/profile" height="30" width="40" /></a>
 </p>
 
