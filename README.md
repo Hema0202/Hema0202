@@ -3,6 +3,8 @@
 
  Currently, I have completed my MCA. I am focused and dedicated to work. I am good at communication and computer programming.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hema0202&label=Profile%20views&color=0e75b6&style=flat" alt="Hem0202" /> </p>
+
 ## 🚀 Technologies & Tools
 
 - Programming Languages: C, JAVA, JavaScript, Express, React
@@ -17,14 +19,14 @@
 - Data Structure and Algorithms
 - Advanced JavaScript concepts
 
-## 📫 How to reach me
+<h3 align="left">📫 How to reach me</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hema-lohana-261209216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hema-lohana-261209216" height="30" width="40" /></a>
 
-- Email: hemalohana8@gmail.com
-- LinkedIn: [Click](https://www.linkedin.com/in/hema-lohana-261209216/)
-- Leetcode: [Click](https://leetcode.com/HemaLohana2000/)
-- GFG     : [Click](https://www.geeksforgeeks.org/)
+<a href="https://www.leetcode.com/HemaLohana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="HemaLohana" height="30" width="40" /></a>
 
-
+<a href="https://auth.geeksforgeeks.org/user/hemalooymd/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hemalooymd/profile" height="30" width="40" /></a>
+</p>
 
 
 
